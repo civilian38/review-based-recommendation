@@ -11,7 +11,7 @@
 
 
 # Review Based Recommendation Project
-## 2023 SCSC 딥러닝/머신러닝 프로젝트
+## 2024 SCSC 딥러닝/머신러닝 프로젝트
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -35,6 +35,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+Figma: https://www.figma.com/file/pcN6wfsPGYc2Go763xnAsa/Review-Based-Recommendation?type=whiteboard&node-id=0%3A1&t=1gERGAapYjWsChl5-1
+
 -- TBA --
 
 <!-- Development -->
