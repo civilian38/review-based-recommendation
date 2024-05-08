@@ -133,7 +133,7 @@ for lecture_url in lectures_url_list:
 
     reviews = review_tab.find_elements(By.CLASS_NAME,'article')
 
-    with open(output_file_path, mode = 'a') as f:
+    with open(output_file_path, mode='a', encoding='utf-8') as f:
         csv_writer = csv.writer(f)
         #각 리뷰별로 별점과 강의평 추출
         for review in reviews:
