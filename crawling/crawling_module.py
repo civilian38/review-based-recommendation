@@ -1,8 +1,8 @@
 # python crawling/crawling_module.py --id [아이디] --pw [비밀번호] --subject [과목명] --out [파일이름]
 # 파일 이름은 .csv 없이 입력
-# 한글 인코딩 형식 cp949
+# 한글 인코딩 형식 utf-8
 # 과목 교수 년도 학기 강의평 순으로 저장
-# crawling/data/file.csv에 저장됌
+# crawling/data/file.csv에 저장;
 # Selenium 4.6부터 사용 가능
 
 from selenium import webdriver
@@ -133,8 +133,7 @@ for lecture_url in lectures_url_list:
 
     reviews = review_tab.find_elements(By.CLASS_NAME,'article')
 
-    # 인코딩 형식 cpc949로 해야 안 한글이 안 깨지네요
-    with open(output_file_path, mode = 'w', encoding= 'cp949') as f:
+    with open(output_file_path, mode = 'a') as f:
         csv_writer = csv.writer(f)
         #각 리뷰별로 별점과 강의평 추출
         for review in reviews:
@@ -142,7 +141,10 @@ for lecture_url in lectures_url_list:
             year_semester = review.find_element(By.CLASS_NAME,'article_header').find_element(By.CLASS_NAME,'title').find_element(By.CLASS_NAME,'info').find_element(By.CLASS_NAME,'semester').text
             year = year_semester[0:2]
             semester = semester_dictionary[year_semester[4]]
-            csv_writer.writerow([lecture_name,professor,year,semester,review_text])
+            stars = review.find_element(By.CLASS_NAME,'article_header').find_element(By.CLASS_NAME,'title').find_element(By.CLASS_NAME,'rate').find_element(By.CLASS_NAME,'star').find_element(By.CLASS_NAME,'on').get_attribute('style')
+            rate = int(stars[-4:-2]) / 20
+            if rate == 0: rate = 5.0
+            csv_writer.writerow([lecture_name,professor,year,semester,rate,review_text])
 
 
 
