@@ -55,13 +55,15 @@ def scroll_to_bottom(driver):
             print('unexpected error during loading lectures')
 
 
+# csv_to_json([파일이름])
+# [파일이름]에는 .csv 미포함
 def csv_to_json(filename):
-    data = list()
+    data = list() #파일 내 전체 강의평
     with open('crawling/data/' + filename + '.csv', mode='r', encoding='utf-8') as csv_file:
         csv_reader = csv.reader(csv_file)
         for review in csv_reader:
-            if review:
-                datum = dict()
+            if review: #csv 파일에 공백 열이 포함됨
+                datum = dict() #단일 강의평
                 datum['lecture'] = review[0]
                 datum['professor'] = review[1]
                 datum['year'] = int(review[2])
