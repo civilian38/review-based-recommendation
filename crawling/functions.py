@@ -1,5 +1,7 @@
 from selenium.webdriver.common.by import By
 import time
+import csv
+
 
 def scroll_down_box_to_bottom(driver, box_xpath):
     # 특정 상자(DIV) 요소 찾기
@@ -51,3 +53,21 @@ def scroll_to_bottom(driver):
             last_height = new_height
         except:
             print('unexpected error during loading lectures')
+
+
+def csv_to_json(filename):
+    data = list()
+    with open('crawling/data/' + filename + '.csv', mode='r', encoding='utf-8') as csv_file:
+        csv_reader = csv.reader(csv_file)
+        for review in csv_reader:
+            if review:
+                datum = dict()
+                datum['lecture'] = review[0]
+                datum['professor'] = review[1]
+                datum['year'] = int(review[2])
+                datum['semester'] = review[3]
+                datum['rating'] = int(eval(review[4]))
+                datum['comment'] = review[5].replace('\n', '')
+                data.append(datum)
+
+    return data
