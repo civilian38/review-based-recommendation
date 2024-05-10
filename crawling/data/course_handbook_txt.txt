@@ -1,0 +1,890 @@
+학문의 기초 
+Academic Foundations
+사고와 표현(Critical Thinking and Writing)
+<제 1영역>
+2019학번 포함 이후학번 학생 대상
+L0440.000600 대학 글쓰기 1(College Writing 1) 2-3-0
+L0440.000700 대학 글쓰기 2: 인문학글쓰기(College Writing 
+2: Writing in Humanities) 2-3-0
+L0440.000800 대학 글쓰기 2: 사회과학글쓰기(College 
+Writing 2: Writing in Social Sciences) 2-3-0
+L0440.000900 대학 글쓰기 2: 과학기술글쓰기(College 
+Writing 2: Writing in Science & 
+Technology) 2-3-0
+<제 2영역>
+031.031 말하기와 토론(Speech and Debate) 3-3-0
+031.032 창의적 사고와 표현(Critical Thinking and 
+Expression) 3-3-0
+031.033 논리와 비판적 사고(Logic and Critical Thinking) 
+3-3-0
+외국어(Foreign Languages)
+L0441.001600 초급한국어(Elementary Korean) 3-3-0
+032.002 중급한국어 1(Intermediate Korean 1) 3-3-0
+032.003 중급한국어 2(Intermediate Korean 2) 3-3-0
+032.004 고급한국어(Advanced Korean) 3-3-0
+032.005 초급한문 1(Elementary Classical Chinese 1) 3-3-0
+032.006 초급한문 2(Elementary Classical Chinese 2) 3-3-0
+032.007 중급한문(Intermediate Classical Chinese) 3-3-0
+032.008 한문명작읽기(Readings in Classical Chinese 
+Masterpieces) 3-3-0
+032.009 역사와 철학 한문원전읽기(Selected Classical 
+Chinese Readings in History and Philosophy by 
+Chinese and Korean Writers) 3-3-0
+032.010 초급중국어 1(Elementary Chinese 1) 3-3-1
+032.011 초급중국어 2(Elementary Chinese 2) 3-3-1
+032.012 중급중국어 1(Intermediate Chinese 1) 3-3-0
+032.013 중급중국어 2(Intermediate Chinese 2) 3-3-0
+032.014 중국어회화 1(Chinese Conversation 1) 3-3-0
+032.015 중국어회화 2(Chinese Conversation 2) 3-3-0
+032.016 미디어중국어(Media Chinese) 3-3-0
+L0441.000600 대학영어 1(College English 1) 3-3-1
+L0441.000700 대학영어 2: 글쓰기(College English 2: Writing) 
+3-3-0
+L0441.000800 대학영어 2: 말하기(College English 2: Speaking) 
+3-3-0
+L0441.000900 고급영어: 산문(Advanced English: Prose) 3-3-0
+L0441.001000 고급영어: 학술작문(Advanced English: Academic 
+Writing) 3-3-0
+L0441.001100 고급영어: 영화(Advanced English: Exploring 
+Film) 3-3-0
+L0441.001200 고급영어: 연극(Advanced English: Drama 
+Workshop) 3-3-0
+L0441.001300 고급영어: 문화와 사회(Advanced English: 
+Culture and Society) 3-3-0
+L0441.001400 고급영어: 발표(Advanced English: Presentation) 
+3-3-0
+L0441.001500 고급영어: 문학(Advanced English: Literature) 
+3-3-0
+L0441.000400 기초영어(English Foundations) 2-3-0
+032.027 초급프랑스어 1(Elementary French 1) 3-3-1
+032.028 초급프랑스어 2(Elementary French 2) 3-3-1
+032.029 중급프랑스어 1(Intermediate French 1) 3-3-0
+032.030 중급프랑스어 2(Intermediate French 2) 3-3-0
+032.031 프랑스어 글쓰기(French Composition) 3-3-0
+032.032 프랑스어 말하기(French Conversation) 3-3-0
+032.033 시사프랑스어(Current French) 3-3-0
+032.034 초급독일어 1(Elementary German 1) 3-3-1
+032.035 초급독일어 2(Elementary German 2) 3-3-1
+032.036 중급독일어 1(Intermediate German 1) 3-3-0
+032.037 중급독일어 2(Intermediate German 2) 3-3-0
+032.038 독일어 글쓰기(German Composition) 3-3-0
+L0441.000300 독문강독(Readings in German Texts) 3-3-0
+032.040 시사독일어(Contemporary German) 3-3-0
+032.041 초급러시아어 1(Elementary Russian 1) 3-3-1
+032.042 초급러시아어 2(Elementary Russian 2) 3-3-1
+032.043 중급러시아어 1(Intermediate Russian 1) 3-3-0
+032.044 중급러시아어 2(Intermediate Russian 2) 3-3-0
+― 28 ―
+032.045 러시아어 말하기(Russian Conversation) 3-3-0
+032.046 러시아어로 읽는 문화와 예술(Readings in Russian 
+Culture and Art) 3-3-0
+032.047 시사 러시아어(Russian through Mass Media) 3-3-0
+032.048 초급스페인어 1(Elementary Spanish 1) 3-3-1
+032.049 초급스페인어 2(Elementary Spanish 2) 3-3-1
+032.050 중급스페인어 1(Intermediate Spanish 1) 3-3-0
+032.051 중급스페인어 2(Intermediate Spanish 2) 3-3-0
+032.052 스페인어 글쓰기(Spanish Composition) 3-3-0
+032.053 스페인어 말하기(Spanish Conversation) 3-3-0
+032.054 시사스페인어(Current Spanish) 3-3-0
+032.055 포르투갈어입문 1(Introduction to Portuguese 1) 
+3-3-1
+032.056 포르투갈어입문 2(Introduction to Portuguese 2) 
+3-3-1
+032.057 이태리어 1(Italian 1) 3-3-1
+032.058 이태리어 2(Italian 2) 3-3-0
+032.059 스와힐리어 1(Swahili 1) 3-3-1
+032.060 스와힐리어 2(Swahili 2) 3-3-0
+032.061 몽골어 1(Mongolian 1) 3-3-1
+L0441.000100 핀란드어 1(Finnish 1) 3-3-1
+L0441.000500 핀란드어 2(Finnish 2) 3-3-0
+L0441.000200 히브리어 1(Hebrew 1) 3-3-1
+032.063 산스크리트어 1(Sanskrit 1) 3-3-0
+032.064 산스크리트어 2(Sanskrit 2) 3-3-0
+032.065 고급일본어 1(Advanced Japanese 1) 
+3-3-0
+032.066 고급일본어 2(Advanced Japanese 2) 
+3-3-0
+032.067 아랍어 1(Arabic 1) 3-3-1
+032.068 아랍어 2(Arabic 2) 3-3-1
+032.069 힌디어 1(Hindi 1) 3-3-1
+032.070 힌디어 2(Hindi 2) 3-3-1
+032.071 말레이-인도네시아어 1(Malay-Indonesian 1) 3-3-1
+032.072 말레이-인도네시아어 2(Malay-Indonesian 2) 3-3-1
+032.073 터키어 1(Turkish 1) 3-3-1
+032.074 터키어 2(Turkish 2) 3-3-1
+032.075 베트남어 1(Vietnamese 1) 3-3-1
+032.076 베트남어 2(Vietnamese 2) 3-3-1
+032.077 고전그리스어 1(Classical Greek 1) 
+3-3-0
+032.078 고전그리스어 2(Classical Greek 2) 
+3-3-0
+032.079 라틴어 1(Latin 1) 3-3-0
+032.080 라틴어 2(Latin 2) 3-3-0
+수량적 분석과 추론
+(Quantitative Analysis and Reasoning)
+L0442.000100 수학 1(Calculus 1) 2-2-0
+L0442.000200 수학연습 1(Calculus Practice 1) 1-0-2
+L0442.000300 수학 2(Calculus 2) 2-2-0
+L0442.000400 수학연습 2(Calculus Practice 2) 1-0-2
+L0442.000500 고급수학 1(Honor Calculus 1) 2-2-0
+L0442.000600 고급수학연습 1(Honor Calculus Practice 1) 
+1-0-2
+L0442.000700 고급수학 2(Honor Calculus 2) 2-2-0
+L0442.000800 고급수학연습 2(Honor Calculus Practice 2) 
+1-0-2
+L0442.000900 미적분학 1(Differential and Integral Calculus 1) 
+3-3-0
+L0442.001000 미적분학연습 1(Differential and Integral 
+Calculus Practice 1) 1-0-2
+L0442.001100 미적분학 2(Differential and Integral Calculus 2) 
+3-3-0
+L0442.001200 미적분학연습 2(Differential and Integral 
+Calculus Practice 2) 1-0-2
+033.007 생명과학을 위한 수학 1(Calculus for Life Science 
+1) 3-3-0
+033.008 생명과학을 위한 수학 2(Calculus for Life Science 
+2) 3-3-0
+033.009 경영학을 위한 수학(Calculus for Business) 3-3-0
+033.010 인문사회계를 위한 수학 1(Calculus for Humanities 
+and Social Sciences 1) 3-3-0
+033.011 인문사회계를 위한 수학 2(Calculus for Humanities 
+and Social Sciences 2) 3-3-0
+033.012 수학의 기초와 응용 1(Mathematics: The Basics 
+and Applications 1) 4-3-2
+033.014 공학수학 1(Engineering Mathematics 1) 3-3-0
+033.015 공학수학 2(Engineering Mathematics 2) 3-3-0
+033.016 기초수학 1(Basic Calculus 1) 1-0-2
+033.017 기초수학 2(Basic Calculus 2) 1-0-2
+033.018 미적분학의 첫걸음(Elementary Calculus) 2-2-2
+033.019 통계학(Statistics) 3-3-0
+― 29 ―
+033.020 통계학실험(Statistics Lab.) 1-0-2
+033.021 통계학의 개념 및 실습(Statistics Concept and 
+Lab.) 3-2-2
+L0442.001300 생명과학을 위한 통계학(Biostatistics) 3-3-0
+L0442.001400 생명과학을 위한 통계학실험(Biostatistics Lab.) 
+1-0-2
+과학적 사고와 실험
+(Scientific Thinking and Experimentation)
+034.001 물리학 1(Physics 1) 3-3-0
+034.002 물리학 2(Physics 2) 3-3-0
+034.003 고급물리학 1(Honor Physics 1) 3-3-0
+034.004 고급물리학 2(Honor Physics 2) 3-3-0
+034.005 물리의 기본 1(Foundation of Physics 1) 3-3-1
+034.006 물리의 기본 2(Foundation of Physics 2) 3-3-1
+034.007 물리학(Physics) 3-3-0
+034.008 인문사회계를 위한 물리학(Physics for Humanities 
+and Social Sciences) 3-3-0
+034.009 물리학실험 1(Physics Lab.1) 1-0-2
+034.010 물리학실험 2(Physics Lab.2) 1-0-2
+034.011 물리학실험(Physics Lab.) 1-0-2
+034.012 기초물리학 1(Basic Physics 1) 1-0-2
+034.013 기초물리학 2(Basic Physics 2) 1-0-2
+034.014 천문학(Astronomy) 3-3-0
+034.015 천문학실험(Astronomy Lab.) 1-0-2
+034.016 화학 1(Chemistry 1) 3-3-0
+034.017 화학 2(Chemistry 2) 3-3-0
+034.020 화학(Chemistry) 3-3-0
+L0443.000100 고급화학(Advanced Chemistry) 3-3-0
+034.022 화학실험 1(Chemistry Lab.1) 1-0-2
+034.023 화학실험 2(Chemistry Lab.2) 1-0-2
+034.024 화학실험(Chemistry Lab.) 1-0-2
+034.025 기초화학 1(Basic Chemistry 1) 1-0-2
+034.026 기초화학 2(Basic Chemistry 2) 1-0-2
+034.027 생물학 1(Biology 1) 3-3-0
+034.028 생물학 2(Biology 2) 3-3-0
+034.029 생물학(Biology) 3-3-0
+034.030 인문사회계를 위한 생물학(Biology for Humanities 
+and Social Sciences) 3-3-0
+034.031 생물학실험 1(Biology Lab.1) 1-0-2
+034.032 생물학실험 2(Biology Lab.2) 1-0-2
+034.033 생물학실험(Biology Lab.) 1-0-2
+034.034 기초생물학 1(Basic Biology 1) 1-0-2
+034.035 기초생물학 2(Basic Biology 2) 1-0-2
+034.036 지구환경과학(Earth and Environmental Sciences) 
+3-3-0
+034.037 지구환경과학실험(Earth and Environmental 
+Sciences Lab.) 1-0-2
+034.038 대기과학(Atmospheric Science) 3-3-0
+034.039 대기과학실험(Atmospheric Science Lab.) 1-0-2
+034.040 지구시스템과학(Earth System Science) 3-3-0
+034.041 지구시스템과학실험(Earth System Science Lab.) 
+1-0-2
+034.042 해양학(Oceanography) 3-3-0
+034.043 해양학실험(Oceanography Lab.) 1-0-2
+034.044 지구과학(Earth Science) 3-3-0
+034.045 지구과학실험(Earth Science Lab.) 1-0-2
+컴퓨터와 정보 활용
+(Computer and Information Science)
+035.001 컴퓨터의 개념 및 실습(Digital Computer Concept 
+and Practice) 3-2-2
+035.002 컴퓨터의 기초(Fundamentals of Computer System) 
+2-2-0
+L0444.000100 과학 계산을 위한 컴퓨터 활용(Computer 
+Application for Scientific Computation) 3-2-2
+L0444.000300 인공지능 입문(Introduction to Artificial 
+Intelligence) 3-2-2
+L0444.000400 컴퓨팅 기초: 처음 만나는 컴퓨팅(Basic 
+Computing: First Adventures in Computing) 3-2-2
+L0444.000500 컴퓨팅 핵심: 컴퓨터로 생각하기(Core 
+Computing: Thinking with Computers) 3-2-2
+L0444.000600 컴퓨팅 응용: 기계학습 개념 및 실습
+(Application of Computing: Machine Learning 
+Concept and Applications) 3-2-2
+L0444.000700 컴퓨팅 응용: 자연어처리의 기초(Application of 
+Computing: Basics of Natural Language Processing) 
+3-2-2
+L0444.000800 컴퓨팅 응용: 데이터사이언스의 기초
+(Application of Computing: Basics of Data Science) 
+3-2-2
+― 30 ―
+학문의 세계 Worlds of Knowledge
+ ｢학문의 세계｣ <언어와 문학>, <문화와 예술>, <역사와 철학> 영역의 ★로 표시된 교과목은 해당 학문 분야의 핵심적인 내용
+을 다루면서 학생들에게 밀도 있는 훈련을 시키는 권장과목임. (권장과목: 44개 교과목)
+언어와 문학(Language and Literature)
+★041.004 한국인의 언어와 문화(Language and Culture of 
+the Korean) 3-3-0
+★L0545.000500 한국문학과 세계문학(Korean Literature and 
+World Literature) 3-3-0
+★L0545.000600 한국문학과 여행(Journeying in Korean 
+Literature) 3-3-0
+★L0545.000700 한국 문학의 깊이와 상상력(The Depth and 
+Imagination of Korean Literature) 3-3-0
+L0545.001400 미디어 리터러시의 세계(Understanding Media 
+Literacy) 3-3-0
+041.009 한국어 어휘와 표현(Korean Vocabulary Training) 
+3-3-0
+041.010 한국현대시 읽기(Reading Modern Korean Poetry) 
+3-3-0
+041.011 21세기 한국소설의 이해(Understanding 
+21st-Century Korean Fiction) 3-3-0
+L0545.001500 한국문학과 문화예술(Arts and Culture in Korean 
+Literature) 3-3-0
+041.017 한국의 한자와 한자어(Korean Usage of Chinese 
+Characters) 3-3-0
+041.018 한글맞춤법의 이론과 실제(Theory and Practice of 
+Hangul Orthography) 3-3-0
+★041.019 동양의 고전(Introduction to Oriental Classics) 3-3-0
+L0545.000900 중국인의 언어와 문화(Understanding Chinese 
+Language and Culture) 3-3-0
+★041.021 현대사회와 국제어(Modern Society and Global 
+Language) 3-3-0
+★041.022 서양근대문학의 이해(Understanding Western 
+Literature, 1500-1900) 3-3-0
+★041.023 문학과 정신분석(Literature and Psychoanalysis) 
+3-3-0
+★L0545.001000 문학으로 읽는 서양문명(Reading Western 
+Civilizations through Literature) 3-3-0
+★041.025 문학과 철학의 대화(Literature and Philosophy in 
+Dialogue) 3-3-0
+L0545.001700 영미 대중소설의 이해(Understanding British and 
+American Popular Fiction) 3-3-0
+041.027 영시의 이해(Understanding English Poetry) 3-3-0
+L0545.001800 세계문학과 영문학(World Literature and English 
+Literature ) 3-3-0
+041.031 프랑스명작의 이해(Understanding French 
+Masterpieces) 3-3-0
+L0545.002400 문학과 공연예술(Literature and Performing arts) 
+3-3-0
+L0545.002500 문학 속 인간과 기계(Humans and Machines in 
+Literature) 3-3-0
+★041.029 말과 마음(Language in the Mind) 3-3-0
+★041.032 문학과 사회(Literature and Society) 3-3-0
+★041.033 여성과 문학(Women and Literature) 3-3-0
+041.034 독일명작의 이해(Understanding German 
+Masterpieces) 3-3-0
+★041.035 도스토예프스키와 톨스토이(Dostoevsky and 
+Tolstoy) 3-3-0
+041.036 러시아명작의 이해(Understandings Russian 
+Masterpieces) 3-3-0
+★041.037 라틴아메리카 문학과 사회(Literature and Society 
+of Latin America) 3-3-0
+★041.038 문학과 영상(Literature and Film) 3-3-0
+041.039 스페인어권명작의 이해(Understanding of Hispanic 
+Masterpieces) 3-3-0
+★041.040 언어의 세계(World of Languages) 3-3-0
+041.041 언어의 이해(Understanding Language) 3-3-0
+041.043 알타이민족의 언어(Languages of Altaic Peoples) 
+3-3-0
+L0545.001300 이중언어사용(Bilingualism) 3-3-0
+L0545.001600 언어와 인간(Language and Humanity) 3-3-0
+041.044 그리스비극(Greek Tragedy) 3-3-0
+041.045 그리스ㆍ로마신화(Greek & Roman Mythology) 
+3-3-0
+041.046 고대그리스ㆍ로마문학의 세계(World of Ancient 
+Greek & Roman Literature) 3-3-0
+L0545.000100 동서양 명작 읽기(Reading Masterpieces of 
+― 31 ―
+Eastern and Western Literature) 3-3-0
+문화와 예술(Culture and Art)
+L0546.000900 르네상스의 세계(Worlds of Renaissance) 3-3-0
+042.002 드라마의 이해와 감상(Understanding Drama) 3-3-0
+042.003 창작의 세계(Understanding Creative Writing) 3-3-0
+042.004 한국의 신화(Korean Mythology) 3-3-0
+★042.005 한자와 동양문화(Chinese Character and Oriental 
+Culture) 3-3-0
+042.006 중국어권의 사회와 문화(Understanding the Society 
+and Culture of the Sinophone World) 3-3-0
+★042.007 미국문화와 현대사회의 이해(Understanding 
+American Culture and Contemporary Society) 3-3-0
+L0546.001200 영미 문화의 이해(Understanding Anglophone 
+Culture) 3-3-0
+★042.009 상상력과 문화(Imagination and Culture) 3-3-0
+042.010 프랑스어권 문화의 이해(Understanding of the 
+Francophone Culture) 3-3-0
+★042.011 서양연극의 이해(An Introduction to Western 
+Drama and Theater) 3-3-0
+042.012 독일어권 문화의 이해(Understanding of the 
+Germanic Culture) 3-3-0
+★042.013 러시아인의 삶과 문화(Russian Life and Culture) 
+3-3-0
+042.014 스페인어권 문화의 이해(Understanding of the 
+Hispanic Culture) 3-3-0
+★042.016 현대종교와 문화(Contemporary Religion and 
+Culture) 3-3-0
+042.017 종교와 영화(Religion and Film) 3-3-0
+042.018 종교와 예술(Religion and Arts) 3-3-0
+042.019 현대문화와 기독교(Modern Culture and 
+Christianity) 3-3-0
+L0546.000200 예술의 가치와 비평(Art Criticism and Values of 
+Art) 3-3-0
+042.021 예술과 사회(Art and Society) 3-3-0
+L0546.000500 공연예술의 이해(Introduction to the Performing 
+Arts) 3-3-0
+L0546.000600 미술론입문(Introduction to Theory of Fine Arts) 
+3-3-0
+042.025 음악론입문(Introduction to Theory of Music) 3-3-0
+042.028 예술과 신화(Art and Myth) 3-3-0
+042.029 예술과 과학(Art and Science) 3-3-0
+L0546.000800 영상예술의 이해(Introduction to Film Art) 3-3-0
+042.032 동양예술론입문(Introduction to Theory of Arts in 
+Asia) 3-3-0
+L0546.000700 대중예술의 이해(Understanding Popular Art) 
+3-3-0
+042.034 페미니즘 미학과 예술(Feminist Aesthetics and 
+Arts) 3-3-0
+042.035 디자인과 생활(Design and Everyday Life) 3-3-0
+042.036 아시아미술의 이해(Perspectives on Asian Art) 
+3-3-0
+042.038 서양미술의 이해(Understanding Western Art) 3-3-0
+042.039 미술명작의 이해(Understanding Masterpieces of 
+Art) 3-3-0
+L0546.000100 현대미술의 이해(Understanding Contemporary 
+Art) 3-3-0
+L0546.001000 동시대 미술과 현장(Art and Art Scene in the 
+Contemporary Era) 3-3-0
+L0546.000400 음악과 사회(Music and Society) 3-3-0
+042.041 현대음악의 이해(Introduction to Modern Music) 
+3-3-0
+042.042 음악 속의 철학(Philosophy in Music) 3-3-0
+042.043 음악의 원리(The Elements and Structural 
+Principles of Music) 3-3-0
+042.044 한국음악의 이해(Understanding Korean Traditional 
+Music) 3-3-0
+042.045 서양음악의 이해(Understanding Western Music) 
+3-3-0
+역사와 철학(History and Philosophy)
+★L0547.001200 규장각과 한국문화(The Kyujanggak Archive 
+and Korean Culture) 3-3-0
+★043.003 한국사의 새로운 해석(New Perspective on Korean 
+Cultural History) 3-3-0
+★043.004 근·현대 한국민족주의(Nationalism in Modern & 
+Contemporary Korea) 3-3-0
+★L0547.001000 동아시아의 역사분쟁(Historical Disputes 
+among East Asian Countries) 3-3-0
+★043.006 역사와 역사 재현(History and Historical 
+Representation) 3-3-0
+043.007 한국사(Korean History) 3-3-0
+― 32 ―
+L0547.004100 한국의 역사가와 역사학(Historians and History 
+of Korea) 3-3-0
+L0547.000800 한국문화와 불교(Korean Culture and Buddhism) 
+3-3-0
+L0547.004200 근대 한국의 역사와 문화(History and Culture of 
+Modern Korea) 3-3-0
+043.013 한국현대사의 이해(Understanding Korean 
+Contemporary History) 3-3-0
+L0547.001100 한국고대사의 쟁점(Issues in Ancient Korean 
+History) 3-3-0
+043.016 한국의 문화유산(Cultural Heritage of Korea) 2-2-0
+L0547.004000 한국문화와 유교사회(Korean Culture and 
+Confucian Society) 3-3-0
+043.019 인물로 본 한국사(Korean History Viewed through 
+Lives of Great Figures) 2-2-0
+043.020 남북분단과 한국전쟁(Division of Korea and 
+Korean War) 2-2-0
+L0547.001500 조선의 역사적 성취와 유산(Historical 
+Achievements and Legacy of the Joseon Dynasty) 
+3-3-0
+L0547.001600 한국 중세의 사회와 문화(Society and Culture in 
+Medieval Korean History) 3-3-0
+★L0547.000300 중국의 전통과 현대(Tradition and Modernity 
+in China) 3-3-0
+★L0547.000400 동서문명의 만남과 실크로드(The Silk Road 
+and the Confluence of Civilizations) 3-3-0
+★L0547.001800 동아시아의 왕권(Royal Authority in 
+Traditional East Asia) 3-3-0
+★L0547.001900 이슬람 문명의 역사(History of Islamic 
+Civilization) 3-3-0
+L0547.002100 테마 중국사(Themes in Chinese History) 
+3-3-0
+L0547.002000 역사 속의 중화와 그 이웃(China and its 
+Neighbors in History) 3-3-0
+L0547.001700 일본의 인물과 역사(Major Personalities in 
+Japanese History) 3-3-0
+★043.028 서양의 문화적 전통(Cultural Traditions of the 
+West) 3-3-0
+★043.029 현대서양의 형성(Modern Civilization of the West) 
+3-3-0
+L0547.003800 민주주의와 시민의 역사(History of Democracy 
+and Citizenship) 3-3-0
+L0547.004400 사회주의의 역사(History of Socialism) 3-3-0
+L0547.002300 기독교와 서양문명
+(Christianity and Western Civilization) 3-3-0
+L0547.003500 서양문명의 역사 1: 고대에서 르네상스까지
+(History of Western Civilization 1: from Antiquity 
+to the Renaissance) 3-3-0
+L0547.003600 서양문명의 역사 2: 종교개혁에서 냉전까지
+(History of Western Civilization 2: from the 
+Reformation to the Cold War) 3-3-0
+L0547.003700 성과 사랑의 역사(History of Sexuality and Love) 
+3-3-0
+L0547.003100 도시의 문화사(Cultural History of Cities) 3-3-0
+L0547.003200 매체로 보는 서양사(Western History in the 
+Popular Media) 3-3-0 
+L0547.003300 처음 배우는 서양사(Introduction to Western 
+History) 3-3-0
+★043.041 문명의 기원(The Origin of Civilization) 3-3-0
+L0547.000200 인류문화의 기원(The Origins of Human Culture) 
+3-3-0
+043.042 고고학개론(Introduction to Archaeology) 3-3-0
+043.044 한국미술사입문(Introduction to Korean Art) 3-3-0
+043.045 동양미술사입문(Introduction to Oriental Art) 3-3-0
+043.046 서양미술사입문(Introduction to Western Art) 3-3-0
+L0547.003900 아시아의 종교와 미술(Religion and Art in Asia) 
+3-3-0
+★043.047 서양철학의 이해(Understanding Western 
+Philosophy) 3-3-0
+★043.048 동양철학의 이해(Understanding Asian Philosophy) 
+3-3-0
+★043.049 현대사회와 윤리(Modern Society and Ethics) 3-3-0
+★L0547.002900 서양철학의 고전(Classics in Western 
+Philosophy) 3-3-0
+043.053 철학개론(Introduction to Philosophy) 3-3-0
+L0547.001400 불교철학의 이해(Understanding Buddhist 
+Philosophy) 3-3-0
+043.058 생명의료윤리(Bio-Medical Ethics) 3-3-0
+043.060 사회철학의 이해(Understanding Social Philosophy) 
+3-3-0
+★043.064 동양철학의 고전(Classics in Oriental Philosophy) 
+3-3-0
+043.065 과학과 비판적 사고(Critical Understanding of 
+Scientific Reasoning) 3-3-0
+― 33 ―
+043.066 과학의 철학적 이해(Philosophical Understanding of 
+Science) 3-3-0
+043.069 성의 철학과 성윤리(Philosophy of Gender and 
+Sexual Morality) 3-3-0
+L0547.002800 인공지능과 철학(Artificial Intelligence and 
+Philosophy) 3-3-0
+043.071 논리학(Logic) 3-3-0
+043.072 중국고전과 중국사상(Chinese Classics and Chinese 
+Thought) 3-3-0
+L0547.000100 도덕적 추론(Moral Reasoning) 3-3-0
+L0547.000600 법과 가치(Law and Values) 3-3-0
+L0547.004300 주제어로 본 동양철학(Eastern Philosophy in 
+Key Terms) 3-3-0
+★043.074 동서양의 종교적 지혜(Religious Wisdom in East 
+and West) 3-3-0
+★043.075 성서와 기독교 사상의 이해(Understanding Bible 
+and Christian Thought) 3-3-0
+★043.076 종교 상징의 세계(Understanding Religious 
+Symbols) 3-3-0
+L0547.002400 종교학의 이해(Understanding Religious Studies) 
+3-3-0
+043.078 인간과 종교(Man and religion) 3-3-0
+043.079 신화와 역사(Myth and History) 3-3-0
+043.080 세계종교입문(Introduction to World Religions) 
+3-3-0
+L0547.002500 명상과 수행(Meditation and Practice) 3-3-0
+★043.083 미학과 예술론(Aesthetics and Art Theory) 3-3-0
+L0547.002600 철학으로 예술 보기(Philosophical Perspectives 
+on Art) 3-3-0
+043.085 자아탐색과 자아실현(Self-reflection and 
+Self-realization) 3-3-0
+043.086 사상과 윤리(Social Thought and Ethics) 3-3-0
+L0547.002700 인도의 전통과 현대(Tradition and Modernity in 
+India) 3-3-0
+정치와 경제(Politics and Economy)
+L0548.000100 역사 속의 전쟁과 평화(War and Peace in 
+History) 3-3-0
+044.002 현대정치의 이해(Introduction of Contemporary 
+Political World) 3-3-0
+044.003 정치와 정치이념(Politics and Political Ideology) 
+3-3-0
+044.004 한국정치의 분석과 이해(Understanding and 
+Analyzing Korean Politics) 3-3-0
+044.006 정치학개론(Introduction to Political Science) 3-3-0
+044.007 국제정치학입문(Introduction to International 
+Relations) 3-3-0
+L0548.000400 영화 속 세계정치(Politics and World Leaders on 
+Film) 3-3-0
+L0548.001200 지구화 시대의 공공외교(Public Diplomacy in 
+the Age of Globalization) 3-3-0
+L0548.001300 한반도 평화와 통일의 쟁점(Emerging Issues on 
+Peace and Unification of the Korean Peninsula) 
+3-3-0
+044.008 인간생활과 경제(Human Life and Economy) 3-3-0
+044.009 현대경제의 이해(Introduction to Modern Economy) 
+3-3-0
+044.010 경제학개론(Introduction to Economics) 3-3-0
+044.011 남북관계와 통일의 전망(Prospects of South-North 
+Relations and Unification) 3-3-0
+044.012 기업과 사회(Business and Society) 3-3-0
+044.013 경영학개론(Introduction to the Theory of 
+Business) 3-3-0
+044.015 인류와 식량(Mankind and Food) 3-3-0
+L0548.000900 현대사회와 법(Society and Law) 3-3-0
+L0548.001000 젠더와 법(Gender and Law) 3-3-0
+L0548.001100 시장경제와 법(Market Economy and Law) 3-3-0
+044.019 민주시민과 헌법(Democratic Citizenship, 
+Constitution and Civil Rights) 3-3-0
+044.020 법학개론(Introduction to Law) 3-3-0
+L0548.000500 예술과 지식재산(Art and Intellectual Property) 
+3-3-0
+L0548.000600 범죄와 형벌(Crime and Punishment) 3-3-0
+L0548.000700 민주시민과 기본적 인권(Democratic Citizen and 
+Fundamental Human Right) 3-3-0
+L0548.000800 주권국가와 국제법원(Sovereign States and 
+International Courts) 3-3-0
+L0548.001400 시민생활의 법적 이해(Understanding the Legal 
+Aspects of Civic Life) 3-3-0
+044.022 국가와 시민(The State and Citizenship) 3-3-0
+044.023 북한학개론(North Korean Studies) 3-3-0
+044.024 글로벌 이슈와 윤리적 사고(Global Issues and 
+Ethical Thinking) 3-3-0
+― 34 ―
+044.025 소비자와 시장(Consumer and the Market) 3-3-0
+044.026 현대국가와 행정(The Modern State and Public 
+Administration) 3-3-0
+044.027 공공행정의 이해(Understanding Public 
+Administration) 3-3-0
+044.030 정책학의 이해(Introduction to Public Policy) 3-3-0
+인간과 사회(Humans and Society)
+045.001 인권, NGO, 세계시민사회(Human Rights, NGO, 
+and International Community) 3-3-0
+045.002 사회학의 이해(Invitation to Sociology) 3-3-0
+L0549.001100 현대사회의 생로병사(Birth, Aging, Disability, 
+and Death in Contemporary Societies) 3-3-0
+L0549.001500 젠더와 범죄(Gender and Crime) 3-3-0
+045.004 인간과 문화(Man and Culture) 3-3-0
+045.005 언어와 사회(Language and Society) 3-3-0
+045.006 진화와 인간사회(Evolution and Human Society) 
+3-3-0
+L0549.001600 전통과 일상의 한국문화(Tradition and Korean 
+Culture in Everyday Life) 3-3-0
+L0549.000900 일본대중문화(Japanese Popular Culture) 3-3-0
+L0549.001000 문화와 질병(Culture and Illness) 3-3-0
+045.012 심리학개론(Introduction to Psychology) 3-3-0
+045.013 인간관계의 심리학(Psychology of Interpersonal 
+Relations) 3-3-0
+L0549.001400 굿 라이프 심리학(Psychology of Good Life) 
+3-3-0
+045.014 세계와 지역의 환경문제(Global and Regional 
+Environmental Issues) 3-3-0
+L0549.000800 공간정보와 시각화(Spatial Information and 
+Visualization) 3-3-0
+045.016 자연환경과 인간(Natural Environment and Human) 
+3-3-0
+045.017 생활공간과 인간(Geographic Space and People) 
+3-3-0
+045.018 행복한 삶과 사회복지(Happiness and Social 
+Welfare) 3-3-0
+045.019 복지국가의 이해(Understanding Welfare states) 
+3-3-0
+045.022 미디어와 현대사회(Media and Contemporary 
+Society) 3-3-0
+L0549.002600 인공지능과 알고리듬 사회(Artificial Intelligence 
+and Algorithmic Society) 3-3-0
+L0549.002700 사랑과 일, 그리고 젠더(Love, Work and 
+Gender) 3-3-0
+L0549.000100 섹슈얼리티와 성평등(Sexuality and Gender 
+Equality) 3-3-0
+045.025 삶과 교육(Life and Education) 3-3-0
+045.026 교육의 이해(Understanding Education) 3-3-0
+045.028 부모교육(Parenting) 3-3-0
+L0549.002400 친밀성과 가족(Intimacy and Families) 3-3-0
+L0549.002100 정의와 법(Justice and Law) 3-3-0 
+L0549.002200 함께 사는 법 – 노동, 복지 그리고 삶(Law for 
+Living Together and Solidarity – Labor, Welfare 
+and Life) 3-3-0
+L0549.002300 디지털시대의 영상문화와 윤리 (Visual Culture 
+and Ethics in Digital Age) 3-3-0 
+자연과 기술(Nature and Technology)
+046.001 문명과 수학(Mathematics in Civilization) 3-3-0
+046.002 정보사회와 수학(Mathematics in Information Age) 
+3-3-0
+L0550.000500 불확실성의 수학적 이해(Mathematical 
+Understanding of Uncertainty) 3-3-0
+046.003 불확실성의 세계와 통계학(The World of 
+Uncertainty and Statistics) 3-3-0
+L0550.000600 문제는 통계야 : 빅데이터 시대의 데이터 문해
+력(It’s the Statistics : Data Literacy in a Big Data 
+World) 3-3-0
+046.004 양자개념과 인류문명(Quantum Theory and Human 
+Civilization) 3-3-0
+046.005 미시세계와 거시세계(Micro-world and 
+Macro-world) 3-3-0
+046.006 인간과 우주(Man and the Universe) 3-3-0
+046.007 외계행성과 생명(Extraterrestrial Planets and Life) 
+3-3-0
+046.009 우주의 진화(Evolution of the Universe) 3-3-0
+L0550.000100 에너지(Energy) 3-3-0
+046.011 10억불분자(A Billion Dollar Molecule) 3-3-0
+046.012 지구의 이해(The Earth: Present & Past) 3-3-0
+046.013 화산과 지진(Volcanoes and Earthquakes) 3-3-0
+― 35 ―
+L0550.000200 자연재해의 관측과 이해(Observation and 
+Understanding of Natural Disaster) 3-3-0
+046.014 역사속의 과학(Understanding Science in the 
+Historical Setting) 3-3-0
+046.015 서양문명과 과학기술(Western Civilization and 
+Science and Technology) 3-3-0
+046.016 컴퓨터과학이 여는 세계(Computational 
+Civilization) 3-3-0
+046.017 기술과 경제(Technology and Economy) 3-3-0
+L0550.000300 인터넷 보안과 프라이버시(Internet Security and 
+Privacy) 3-3-0
+L0550.000400 생활 속의 반도체(Semiconductor in Daily Life) 
+3-3-0
+생명과 환경(Life and Environment)
+047.002 생명의 이해(Understanding Life) 3-3-0
+047.006 인체생물학(Biology of Human Body) 3-3-0
+047.008 인간과 지구환경(Man and the Earth Environments) 
+3-3-0
+047.009 지구환경변화(Global Environment Change) 3-3-0
+L0551.000300 바다과학기행(Voyage to the Sea) 3-3-0
+047.010 물의 위기(Water Crisis) 3-3-0
+047.011 생활원예(Home Horticulture) 2-2-0
+L0551.000400 숲의 이해(Understanding Forests) 3-3-0
+047.013 삶의 혁명-생명공학(Revolution of Life 
+Biotechnology) 3-3-0
+047.014 곤충과 인간(Insects and Humans) 3-3-0
+047.015 영양과 건강(Nutrition for Health) 2-2-0
+047.016 식생활과 환경(Food and Environment) 2-2-0
+047.017 약과 건강(Drug and Health) 3-3-0
+047.018 우리 몸의 이해(Understanding the Human Body) 
+3-3-0
+047.019 사람 뇌의 구조와 기능(Structure and Function of 
+Human Brain) 3-3-0
+047.020 인간생명과학개론(Introduction to Human Life 
+Science) 3-3-0
+047.021 참살이의학특강(Topics in Medicine for Well-being) 
+3-3-0
+047.022 죽음의 과학적 이해(Understanding Death: A 
+Scientific View) 3-3-0
+047.023 비만과 건강관리(Obesity and Health) 3-3-0
+L0551.000200 환경과 기후변화의 미래(The Future of the 
+Environment and Climate Change) 3-3-0
+047.025 환경과 건강(Environment and Health) 3-3-0
+047.026 생활구강건강관리(Understanding Oral Health in 
+Life) 3-3-0
+047.029 기후변화와 건강(Climate Change and Health) 3-3-0
+선택교양 General Education Electives
+체육(Physical Education)
+051.001 체육 1(Physical Education 1) 1-0-2
+051.002 체육 2(Physical Education 2) 1-0-2
+051.003 축구(Soccer) 1-0-2
+051.004 배구(Volleyball) 1-0-2
+051.005 양궁(Archery) 1-0-2
+051.006 야구(Baseball) 1-0-2
+051.007 태권도(Taekwondo) 1-0-2
+051.008 에어로빅(Aerobics) 1-0-2
+051.009 한국무용(Korean Dance) 1-0-2
+051.010 현대무용(Modern Dance) 1-0-2
+051.012 수영 1(평영)(Swimming 1) 1-0-2
+051.013 수영 2(평영)(Swimming 2) 1-0-2
+051.014 수영 3(자유형)(Swimming 3) 1-0-2
+051.015 수영 4(자유형)(Swimming 4) 1-0-2
+051.016 수영 5(접영)(Swimming 5) 1-0-2
+051.017 호신술(Martial Arts) 1-0-2
+051.018 체력단련(Weight Training) 1-0-2
+051.019 테니스초급(Beginner’s Tennis) 1-0-2
+051.020 테니스중급(Intermediate Tennis) 1-0-2
+051.022 골프초급(Beginner’s Golf) 1-0-2
+051.023 댄스스포츠(Dance Sport) 1-0-2
+051.024 농구초급(Beginner’s Basketball) 1-0-2
+051.025 배드민턴초급(Beginner’s Badminton) 1-0-2
+051.026 탁구초급(Beginner’s Table Tennis) 1-0-2
+― 36 ―
+051.027 탁구중급(Intermediate Table Tennis) 1-0-2
+051.029 건강과 삶(Health and Life) 1-1-0
+051.030 운동과 영양(Exercise and Nutrition) 1-1-0
+051.031 운동과 건강(Exercise and Health) 1-1-0
+051.033 현대사회와 스포츠(Modern Society and Sports) 
+1-1-0
+L0652.000100 핸드볼(Handball) 1-0-2
+L0652.000200 달리기와 건강(Running and Health) 1-0-2
+예술 실기(Art Practice)
+052.001 도예의 기초(Introduction to Ceramics) 2-0-4
+052.002 수묵화의 기초(Introduction to Sumukhua) 2-1-2
+052.003 수채화의 기초(Introduction to Watercolor) 2-0-4
+052.004 소묘의 기초(Introduction to Drawing) 2-0-4
+L0653.000100 민화의 기초(Introduction to Minhwa) 2-1-2
+052.005 교양연주-합창(Music performance- Chorus) 1-0-2
+052.006 교양연주-색소폰 1(Music performance- Saxophone 
+1) 1-0-2
+052.007 교양연주-색소폰 2(Music performance- Saxophone 
+2) 1-0-2
+052.008 교양연주-가야금(Music performance- Gayageum) 
+1-0-2
+052.009 교양연주-거문고(Music Performance- Geomungo) 
+1-0-2
+052.010 교양연주-단소(Music performance-Danso) 1-0-2
+052.011 교양연주-해금(Music Performance- Haegeum) 1-0-2
+대학과 리더십(College Life and Leadership)
+053.001 신입생세미나(Freshman Seminars) 1-1-0
+L0654.000100 한국 수화 언어의 이해(Understanding Korean 
+Sign Language) 2-2-0
+053.003 사회봉사 1(Volunteer Social Service 1) 1-0-2
+053.004 사회봉사 2(Volunteer Social Service 2) 1-0-2
+053.005 사회봉사 3(Volunteer Social Service 3) 1-0-2
+053.006 글로벌 인턴십 1(Global Internship 1) 1-0-2
+053.008 직업세계의 이해와 진로설계(Understanding of 
+Vocational Life and Career Plan) 2-1-2
+053.010 그린리더십(Green Leadership) 3-3-0
+053.011 그린리더십 인턴십(Green Leadership Internship) 
+3-0-6
+L0654.000200 지속가능한 생활디자인(Sustainable Living 
+Design) 3-3-0
+창의와 융합(Creativity and Convergence)
+054.001 학생자율연구 1(Undergraduate Independent Study 
+1) 2-1-2
+054.002 학생자율연구 2(Undergraduate Independent Study 
+2) 2-1-2
+054.003 학생자율세미나(Peer Group Seminar) 1-0-2
+L0655.002400 학생자율연구: 가치탐구와 실천 (Undergraduate 
+Independent Study: Value Inquiry and Practice) 
+2-1-2
+054.004 관악모둠강좌(인물)(Gwanak Omnibus Course 
+(Historical Figures)) 3-3-0
+054.006 관악모둠강좌(주제)(Gwanak Omnibus Course 
+(Themes)) 3-3-0
+L0655.001500 관악모둠강좌: 공동체(Gwanak Omnibus 
+Lectures: Community) 2-2-0
+L0655.000300 독서세미나-고전에 길을 묻다(Great Books 
+Reading Seminar) 3-3-0
+L0655.000400 인간학 개론-나는 누구이며 어떻게 살 것인가
+(Human Nature and the Good Life: An 
+Interdisciplinary Approach) 3-3-0
+L0655.000600 융합주제강좌: 생명(Life: An Interdisciplinary 
+Approach) 3-3-0
+L0655.000900 융합주제강좌: 미래(Futures: An Interdisciplinary 
+Approach) 3-3-0
+L0655.001300 융합주제강좌: 기술혁신(Technological 
+Innovation: An Interdisciplinary Approach) 3-3-0
+L0655.001600 융합주제강좌: 자유와 선택(Freedom and 
+Choice: An Interdisciplinary Approach) 3-3-0
+L0655.001700 융합주제강좌: 과학기술과 미래(Science, 
+Technology and the Future: An Interdisciplinary 
+Approach) 3-3-0
+L0655.002000 융합주제강좌: 인간과 동물(Human and Animal: 
+An Interdisciplinary Approach) 3-3-0
+L0655.002200 융합주제강좌: 권리와 의무(Rights and 
+Responsibilities: An Interdisciplinary Approach) 
+3-3-0
+L0655.002300 융합주제강좌: 기후위기와 인류(Climate Crisis 
+and Humanity: An Interdisciplinary Approach) 3-3-0
+― 37 ―
+L0655.003000 융합주제강좌: 공존(Coexistence: An 
+Interdisciplinary Approach) 3-3-0
+L0655.002500 학생제안강좌: 웃음의 이해(Understanding of 
+Laughter: Student Proposed Course) 3-3-0
+L0655.002700 학생제안강좌: 퀴어문학(Queer Literature: 
+Student Proposed Course) 3-3-0
+L0655.002900 학생제안강좌: 장애학의 이해(Understanding 
+Disability Studies: Student Proposed Course) 3-3-0
+L0655.003200 학생제안강좌: 연극과 감정 표현(Play and 
+Emotional Expression : Student Proposed Course) 
+3-3-0
+L0655.003300 학생제안강좌: 기하학의 그리스적 발견(The 
+Greek Invention of Geometry: Student Proposed 
+Course) 3-3-0
+L0655.002600 창의와 탐구 : 해체와 재창조 (Decomposition 
+and Re-creation: Creativity and Inquiry) 2-2-0
+L0655.003100 창의와 탐구: 창의성을 깨우는 아두이노 
+(Arduino awakens creativity : Creativity and 
+Inquiry) 2-1-2
+L0655.002800 한국 경제를 위한 창의적 아이디어(Creative 
+Ideas for Korean Economy) 3-3-0
+054.008 소그룹 고전원전읽기 1(Readings in Classics 1) 
+1-2-0
+054.009 소그룹 고전원전읽기 2(Readings in Classics 2) 
+1-2-0
+L0655.001800 고전으로 읽는 인문학 1(Reading Classics in the 
+Humanities 1) 3-3-0
+L0655.001900 고전으로 읽는 인문학 2(Reading Classics in the 
+Humanities 2) 3-3-0
+054.019 현대도시건축산책(A Glance at Korean 
+Contemporary Urbanism and Architecture) 3-2-2
+054.020 소리의 과학과 악기제작 체험(The Science of 
+Sound, and Experience of Music Instrument Design 
+and Evaluation) 3-2-2
+054.021 창조와 디자인(Creativity and Design) 3-2-2
+L0655.001000 테크놀러지와 예술: 전시·예술·공학(Technology 
+and Art: Exhibit · Art · Engineering) 3-2-2
+054.023 과학기술과 대중문화(Science, Technology and 
+Popular Culture) 3-3-0
+054.024 과학기술과 사회(Science, Technology and Society) 
+3-3-0
+054.028 특허와 기술창업(Patent and Technology 
+Entrepreneurship) 3-3-0
+L0655.000700 빅데이터의 이해(Understanding Big Data) 3-3-0
+054.030 신체활동의 이해와 실습(Understanding and 
+Practice of Physical Activity) 2-1-2
+054.031 산과 인생(Mountain and Life) 2-1-2
+054.032 자전거와 스포츠과학(Bicycle and Sports Science) 
+2-1-2
+054.034 도시의 이해(Interpreting Cities) 3-3-0
+L0655.003400 미래의 교통, 스마트 모빌리티(Smart Mobility, 
+The Future Transportations) 3-3-0
+L0655.000800 사진 속 지리여행(Geographical Understanding 
+through Geophotos) 3-3-0
+L0655.003500 베리타스 강좌 1: 인간과 동물(Veritas Lecture 
+1: Human and Animal) 3-3-0
+L0655.003600 베리타스 강좌 1: 기후위기와 인류(Veritas 
+Lecture 1: Climate Crisis and Humanity) 3-3-0
+L0655.003700 베리타스 강좌 1: 자유와 정의 (Veritas Lecture 
+1: Liberty and Justice) 3-3-0
+L0655.003800 베리타스 강좌 1: 아르스 롱가 - 과학, 음악, 문
+학의 만남(Veritas Lecture 1: Ars Longa - Intersection of Science, Music, and Literature) 3-3-0
+L0655.003900 베리타스 강좌 1: 데이터로 디자인하는 리더십
+(Veritas Lecture 1: Leadership Designed by Data) 
+3-3-0
+한국의 이해(Korea in the World)
+(Courses in English)
+055.002 한국의 언어(The Korean Language) 3-3-0
+055.003 한국어와 한국문화(Korean Language and Culture) 
+3-3-0
+055.004 동아시아의 문인문화(Literati Culture in East Asia) 
+3-3-0
+055.005 한국근대소설의 이해(Modern Korean Fiction) 
+3-3-0
+055.006 현대한국의 삶과 문화(Life in Contemporary 
+Korea) 3-3-0
+055.007 한국문학입문(Introduction to Korean Literature) 
+3-3-0
+055.008 동아시아 불교문화(Buddhist Culture in East Asia) 
+3-3-0
+055.016 두 개의 한국: 근대한국의 역사와 사회(Two 
+― 38 ―
+Koreas: Modern Korean History and Society) 3-3-0
+055.019 한국법의 이해(Korean Law) 3-3-0
+055.020 세계음악(Music of the World) 3-3-0
+055.021 한국음악개론(Introduction to Korean Musical 
+Culture) 3-3-0
+L0656.000100 현대동아시아의 종교: 정체성과 갈등(Religions 
+in Modern East Asia: Identity and Conflict) 3-3-0
+L0656.000200 한복과 한국문화(Hanbok and Korean Culture) 
+3-3-0
+
