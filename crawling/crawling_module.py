@@ -23,10 +23,10 @@ import csv
 semester_dictionary = {'1' : 'Spring', '2': 'Fall', '여' : 'Summer', '겨' : 'Winter'}
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--id [drbsc]', required=True)
-parser.add_argument('--pw [!@bsc51614]', required=True)
+parser.add_argument('--id ', required=True)
+parser.add_argument('--pw ', required=True)
 
-parser.add_argument('--subject [창의적 사고와 표현]', required=True)
+parser.add_argument('--subject ', required=True)
 parser.add_argument('--out ', required=True)
 #parser.add_argument('--professor', required=True)
 
