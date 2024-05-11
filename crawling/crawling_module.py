@@ -93,8 +93,10 @@ try:
         EC.presence_of_all_elements_located((By.CLASS_NAME,'lecture'))
     )
 
-    for lecture in lectures:
-        lectures_url_list.append(lecture.get_attribute('href'))
+    for lecture in lectures: # 과목 명에 정확하게 들어맞는, 별점이 있는 강의만 가져오도록
+        if lecture.find_element(By.CLASS_NAME,'highlight').text == parser.parse_args().subject:
+            if lecture.find_element(By.CLASS_NAME,'rate').find_element(By.CLASS_NAME,'star').find_element(By.CLASS_NAME,'on').get_attribute('style') != 'width: 0%;':
+                lectures_url_list.append(lecture.get_attribute('href'))
 
 except:
     print("No Such Subject Found")
@@ -115,7 +117,12 @@ for lecture_url in lectures_url_list:
             EC.presence_of_element_located((By.XPATH, '/html/body/div/div/div[2]/div/section[1]/div[2]/div/a/span'))
         ).text
     except:
-        professor = 'Not Determined'
+        try:
+            professor = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.XPATH,'/html/body/div/div/div[2]/div/section[1]/div[2]/span'))
+            ).text
+        except:
+            professor = 'Not Determined'
 
     show_reviews_button = WebDriverWait(driver, 10).until(
         EC.element_to_be_clickable((By.XPATH, '/html/body/div/div/div[1]/div[2]/a[2]'))
