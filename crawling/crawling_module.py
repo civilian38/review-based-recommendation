@@ -95,11 +95,12 @@ try:
 
     for lecture in lectures: # 과목 명에 정확하게 들어맞는, 별점이 있는 강의만 가져오도록
         if lecture.find_element(By.CLASS_NAME,'highlight').text == parser.parse_args().subject:
-            if lecture.find_element(By.CLASS_NAME,'rate').find_element(By.CLASS_NAME,'star').find_element(By.CLASS_NAME,'on').get_attribute('style') != 'width: 0;':
+            if lecture.find_element(By.CLASS_NAME,'rate').find_element(By.CLASS_NAME,'star').find_element(By.CLASS_NAME,'on').get_attribute('style') != 'width: 0%;':
                 lectures_url_list.append(lecture.get_attribute('href'))
 
 except:
     print("No Such Subject Found")
+
 
 #순서대로 링크 방문해서 강의평 크롤링
 for lecture_url in lectures_url_list:
