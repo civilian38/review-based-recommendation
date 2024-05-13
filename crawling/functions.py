@@ -77,12 +77,15 @@ def csv_to_json(filename):
 
 
 #크롤링 한 파일 중 missing된 파일이 있는지 확인
-def missing_file_check():
+def missing_files():
     file_list = set(os.listdir('crawling/data/'))
+    missing_lectures = list()
     with open('crawling/data/mising_courses.txt', mode='a', encoding='utf-8') as txt_file:
         with open('crawling/data/course_handbook_parsed.csv', mode='r', encoding='utf-8') as f:
             csv_reader = csv.reader(f)
             for row in csv_reader:
                 if row[1].replace(':', "-") + '.csv' not in file_list:
-                    print(row[0], row[1].replace(':', "-"))
+                    #print(row[0], row[1].replace(':', "-"))
+                    missing_lectures.append(row[0])
                     #txt_file.write(row[0] + '\n')
+    return missing_lectures
