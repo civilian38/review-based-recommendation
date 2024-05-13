@@ -1,6 +1,7 @@
 from selenium.webdriver.common.by import By
 import time
 import csv
+import os
 
 
 def scroll_down_box_to_bottom(driver, box_xpath):
@@ -73,3 +74,15 @@ def csv_to_json(filename):
                 data.append(datum)
 
     return data
+
+
+#크롤링 한 파일 중 missing된 파일이 있는지 확인
+def missing_file_check():
+    file_list = set(os.listdir('crawling/data/'))
+    with open('crawling/data/mising_courses.txt', mode='a', encoding='utf-8') as txt_file:
+        with open('crawling/data/course_handbook_parsed.csv', mode='r', encoding='utf-8') as f:
+            csv_reader = csv.reader(f)
+            for row in csv_reader:
+                if row[1].replace(':', "-") + '.csv' not in file_list:
+                    print(row[0], row[1].replace(':', "-"))
+                    #txt_file.write(row[0] + '\n')
