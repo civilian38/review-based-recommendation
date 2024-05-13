@@ -32,7 +32,13 @@ parser.add_argument('--out', required=True)
 
 my_id = parser.parse_args().id
 my_pw = parser.parse_args().pw
-output_file_path = 'crawling/data/'+parser.parse_args().out+'.csv'
+output_file_path = 'crawling/data/'+parser.parse_args().out+'.csv' #디폴트 파일명
+with open('crawling/data/course_handbook_parsed.csv', mode='r', encoding='utf-8') as f:
+    reader = csv.reader(f)
+    for row in reader:
+        if row[0] == parser.parse_args().subject:
+            output_file_path = 'crawling/data/' + row[1].replace(':', '-') + '.csv' #강의 영어명
+            break
 
 #드라이버 객체 생성
 driver = webdriver.Chrome()
@@ -156,3 +162,4 @@ for lecture_url in lectures_url_list:
 
 
 
+#스페인어권 문화의 이해 수정 필요

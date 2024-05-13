@@ -16,7 +16,8 @@ id = parser.parse_args().id
 pw = parser.parse_args().pw
 in_file = data_path + parser.parse_args().i +'.csv'
 
-with open(in_file,'r', encoding='utf-8') as f:
+
+with open(in_file, 'r', encoding='utf-8') as f:
     csv_reader = csv.reader(f)
     subjects = dict()
     for row in csv_reader:
@@ -24,6 +25,6 @@ with open(in_file,'r', encoding='utf-8') as f:
 
 
 for subject in subjects.keys():
-    if subject.startswith('\ufeff'): sub_name = subject[1:]
-    else : sub_name = subject
-    os.system('python crawling/crawling_module.py --id {} --pw {} --subject \"{}\" --out \"{}\"'.format(id,pw,sub_name,subjects[subject]))
+    if subject.startswith('\ufeff'): subject = subject[1:]
+    print(subject, subjects[subject])
+    os.system('python crawling/crawling_module.py --id {} --pw {} --subject "{}" --out {}'.format(id, pw, subject, 'defaults'))
