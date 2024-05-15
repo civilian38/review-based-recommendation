@@ -32,7 +32,13 @@ parser.add_argument('--out', required=True)
 
 my_id = parser.parse_args().id
 my_pw = parser.parse_args().pw
-output_file_path = 'crawling/data/'+parser.parse_args().out+'.csv'
+output_file_path = 'crawling/data/'+parser.parse_args().out+'.csv' #디폴트 파일명
+with open('crawling/data/course_handbook_parsed.csv', mode='r', encoding='utf-8') as f:
+    reader = csv.reader(f)
+    for row in reader:
+        if row[0] == parser.parse_args().subject:
+            output_file_path = 'crawling/data/' + row[1].replace(':', '-') + '.csv' #강의 영어명
+            break
 
 #드라이버 객체 생성
 driver = webdriver.Chrome()
@@ -93,11 +99,14 @@ try:
         EC.presence_of_all_elements_located((By.CLASS_NAME,'lecture'))
     )
 
-    for lecture in lectures:
-        lectures_url_list.append(lecture.get_attribute('href'))
+    for lecture in lectures: # 과목 명에 정확하게 들어맞는, 별점이 있는 강의만 가져오도록
+        if lecture.find_element(By.CLASS_NAME,'highlight').text == parser.parse_args().subject:
+            if lecture.find_element(By.CLASS_NAME,'rate').find_element(By.CLASS_NAME,'star').find_element(By.CLASS_NAME,'on').get_attribute('style') != 'width: 0%;':
+                lectures_url_list.append(lecture.get_attribute('href'))
 
 except:
     print("No Such Subject Found")
+
 
 #순서대로 링크 방문해서 강의평 크롤링
 for lecture_url in lectures_url_list:
@@ -115,7 +124,12 @@ for lecture_url in lectures_url_list:
             EC.presence_of_element_located((By.XPATH, '/html/body/div/div/div[2]/div/section[1]/div[2]/div/a/span'))
         ).text
     except:
-        professor = 'Not Determined'
+        try:
+            professor = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.XPATH,'/html/body/div/div/div[2]/div/section[1]/div[2]/span'))
+            ).text
+        except:
+            professor = 'Not Determined'
 
     show_reviews_button = WebDriverWait(driver, 10).until(
         EC.element_to_be_clickable((By.XPATH, '/html/body/div/div/div[1]/div[2]/a[2]'))
@@ -148,3 +162,4 @@ for lecture_url in lectures_url_list:
 
 
 
+#스페인어권 문화의 이해 수정 필요
